@@ -10,4 +10,4 @@
 
 - Then go to postman and hit to this API
   - GET `http://localhost:3000/books`
-  - Body: `{"host": "localhot"}` --> This will be the host of the DB
+  - Body: `{"host": "localhot"}` --> This will be the host of the DB that you want to connect to it
