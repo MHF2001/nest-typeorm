@@ -3,7 +3,7 @@
 ## Notes:
 
 - Create DB name test
-- Run the code
+- Run the comands
 
   - `cd backend-1 && npm start`
   - `cd backend-2 && npm start`
